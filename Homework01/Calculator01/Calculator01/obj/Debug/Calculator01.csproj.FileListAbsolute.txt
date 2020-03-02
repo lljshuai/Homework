@@ -1,0 +1,6 @@
+C:\Users\18582\source\repos\Calculator01\Calculator01\bin\Debug\Calculator01.exe.config
+C:\Users\18582\source\repos\Calculator01\Calculator01\bin\Debug\Calculator01.exe
+C:\Users\18582\source\repos\Calculator01\Calculator01\bin\Debug\Calculator01.pdb
+C:\Users\18582\source\repos\Calculator01\Calculator01\obj\Debug\Calculator01.csprojAssemblyReference.cache
+C:\Users\18582\source\repos\Calculator01\Calculator01\obj\Debug\Calculator01.exe
+C:\Users\18582\source\repos\Calculator01\Calculator01\obj\Debug\Calculator01.pdb
