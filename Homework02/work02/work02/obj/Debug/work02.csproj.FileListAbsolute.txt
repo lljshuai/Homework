@@ -1,0 +1,5 @@
+C:\Users\18582\source\repos\work02\work02\bin\Debug\work02.exe.config
+C:\Users\18582\source\repos\work02\work02\bin\Debug\work02.exe
+C:\Users\18582\source\repos\work02\work02\bin\Debug\work02.pdb
+C:\Users\18582\source\repos\work02\work02\obj\Debug\work02.exe
+C:\Users\18582\source\repos\work02\work02\obj\Debug\work02.pdb

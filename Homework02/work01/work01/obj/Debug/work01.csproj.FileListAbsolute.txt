@@ -1,0 +1,6 @@
+C:\Users\18582\source\repos\work01\work01\bin\Debug\work01.exe.config
+C:\Users\18582\source\repos\work01\work01\bin\Debug\work01.exe
+C:\Users\18582\source\repos\work01\work01\bin\Debug\work01.pdb
+C:\Users\18582\source\repos\work01\work01\obj\Debug\work01.csprojAssemblyReference.cache
+C:\Users\18582\source\repos\work01\work01\obj\Debug\work01.exe
+C:\Users\18582\source\repos\work01\work01\obj\Debug\work01.pdb
