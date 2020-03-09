@@ -1,0 +1,6 @@
+C:\Users\18582\source\repos\work4.2\work4.2\bin\Debug\work4.2.exe.config
+C:\Users\18582\source\repos\work4.2\work4.2\bin\Debug\work4.2.exe
+C:\Users\18582\source\repos\work4.2\work4.2\bin\Debug\work4.2.pdb
+C:\Users\18582\source\repos\work4.2\work4.2\obj\Debug\work4.2.csprojAssemblyReference.cache
+C:\Users\18582\source\repos\work4.2\work4.2\obj\Debug\work4.2.exe
+C:\Users\18582\source\repos\work4.2\work4.2\obj\Debug\work4.2.pdb
