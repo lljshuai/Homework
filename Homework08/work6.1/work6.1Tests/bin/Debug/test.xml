@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfOrderItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderItems>
+    <ProductsNum>32</ProductsNum>
+    <Price>10</Price>
+    <Sum>320</Sum>
+    <OrderNum>20200314</OrderNum>
+    <ClientName>A</ClientName>
+  </OrderItems>
+  <OrderItems>
+    <ProductsNum>24</ProductsNum>
+    <Price>12</Price>
+    <Sum>288</Sum>
+    <OrderNum>20200315</OrderNum>
+    <ClientName>B</ClientName>
+  </OrderItems>
+  <OrderItems>
+    <ProductsNum>18</ProductsNum>
+    <Price>5</Price>
+    <Sum>90</Sum>
+    <OrderNum>20200316</OrderNum>
+    <ClientName>C</ClientName>
+  </OrderItems>
+</ArrayOfOrderItems>

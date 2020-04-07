@@ -1,0 +1,14 @@
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\bin\Debug\OrderServiceWinForm.exe.config
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\bin\Debug\OrderServiceWinForm.exe
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\bin\Debug\OrderServiceWinForm.pdb
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\bin\Debug\work6.1.exe
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\bin\Debug\work6.1.pdb
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\bin\Debug\work6.1.exe.config
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.csprojAssemblyReference.cache
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.Properties.Resources.resources
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.csproj.GenerateResource.cache
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.csproj.CopyComplete
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.exe
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.pdb
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.Form1.resources
+C:\Users\18582\Desktop\work6.1\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.Form2.resources
